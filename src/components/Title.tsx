@@ -1,5 +1,5 @@
 function Title() {
-    return <h1>GoodVessel92551</h1>
+    return <h1 className="pageTitle">GoodVessel92551</h1>
 }
 
 export default Title;
